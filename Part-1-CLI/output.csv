@@ -1,0 +1,4 @@
+Model,Price,Mileage,Comfort,Safety,Topsis Score,Rank
+A,250000,20,7,8,0.5000000000000001,2.0
+B,300000,18,8,9,1.0,1.0
+C,200000,22,6,7,0.0,3.0
